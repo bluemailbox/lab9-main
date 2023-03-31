@@ -30,10 +30,10 @@ public class Snowflake {
 		//System.out.println(Snowflake.resultSetToString(sf.queryExample(), 1000));
 
 		// Test four queries that you must write
-		//System.out.println(Snowflake.resultSetToString(sf.query1(), 1000));
+		System.out.println(Snowflake.resultSetToString(sf.query1(), 1000));
 		System.out.println(Snowflake.resultSetToString(sf.query2(), 1000));
-		//System.out.println(Snowflake.resultSetToString(sf.query3(), 1000));
-		//System.out.println(Snowflake.resultSetToString(sf.query4(), 1000));
+		System.out.println(Snowflake.resultSetToString(sf.query3(), 1000));
+		System.out.println(Snowflake.resultSetToString(sf.query4(), 1000));
 
 		sf.close();
 	}
