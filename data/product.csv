@@ -1,0 +1,22 @@
+ProductId,ProductName,ListPrice
+P0000,Apple,1
+P0001,Banana,1.25
+P0002,Corn,0.5
+P0003,Dice,2.5
+P0004,Eggs,0.86
+P0005,Fudge,3.1
+P0006,Grapes,1.9
+P0007,Honey,2.37
+P0008,Ice Cream,2.5
+P0009,Jelly,1.6
+P0010,Kiwi,0.99
+P0011,Lamb,7.99
+P0012,M&M's,1.97
+P0013,Nilla Wafers,2.29
+P0014,Oreos,2.01
+P0015,Peaches,1.99
+P0016,Tivo,449.99
+P0017,Television,424.99
+P0018,Microwave,99.99
+P0019,Treadmill,1099.99
+P0020,Laptop,1599.99
